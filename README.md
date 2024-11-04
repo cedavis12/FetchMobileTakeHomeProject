@@ -16,3 +16,11 @@
 | iPad - Dark Mode  |  iPad - Light Mode |
 |---|---|
 |![Simulator Screenshot - iPad (10th generation) - 2024-11-01 at 16 59 12](https://github.com/user-attachments/assets/eed06d87-180d-4ad6-a8c8-783dee35b59f) | ![Simulator Screenshot - iPad (10th generation) - 2024-11-01 at 16 46 31](https://github.com/user-attachments/assets/399a2c03-b604-4c14-9572-a28a2a35bad9)|
+
+
+| Empty Screen  |  Error Screen |
+|---|---|
+|![Simulator Screenshot - iPhone 16 Pro - 2024-11-04 at 11 37 15](https://github.com/user-attachments/assets/fdbf8c9e-7447-461a-b4b4-5bca156c9ecc) |   ![Simulator Screenshot - iPhone 16 Pro - 2024-11-04 at 11 36 35](https://github.com/user-attachments/assets/81aa53e0-12ff-49bc-bfde-60447430f1d4)|
+
+
+
